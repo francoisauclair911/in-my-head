@@ -3,17 +3,17 @@ export default defineAppConfig({
     title: 'In my head',
     description: 'An open source mind',
     image: {
-      src: '/social-card-preview.png',
+      src: '/alpine-0.webp',
       alt: 'An image showcasing my project.',
       width: 400,
       height: 300
     },
     header: {
-      position: 'right', // possible value are : | 'left' | 'center' | 'right'
+      position: 'center', // possible value are : | 'left' | 'center' | 'right'
       logo: {
-        path: '/logo.svg', // path of the logo
-        pathDark: '/logo-dark.svg', // path of the logo in dark mode, leave this empty if you want to use the same logo
-        alt: 'alpine' // alt of the logo
+        path: '/logos/logo-black.svg', // path of the logo
+        pathDark: '/logos/logo.svg', // path of the logo in dark mode, leave this empty if you want to use the same logo
+        alt: 'no-logo' // alt of the logo
       }
     },
     footer: {

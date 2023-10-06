@@ -1,6 +1,5 @@
 ---
-cover: /funny/star-wars/configure-alpine.webp
-
+cover: /funny/star-wars/original-scene.jpeg
 date: 2023-10-06
 layout: article
 ---
